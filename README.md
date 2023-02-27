@@ -1,4 +1,4 @@
-# LGMVIP-WebDevelopment
+# LGMVIP-Web Development
 
 LetsGrowMore VIP Web Development Internship Task -2
 
